@@ -1,0 +1,39 @@
+/* DIGITAL INVADERS TEAM */
+
+Name: 					Adrian Quevedo
+Site:					http://www.adrianquevedo.com/
+Twitter:				@adrianengine
+Location:				Bogotá, Colombia
+
+Name: 					Jader Quiroga
+Site:					http://www.mymonxter.com/
+Twitter:				@mymonxter
+Location:				Bogotá, Colombia
+
+Name: 					Lazaro Medina
+Twitter:				@lzmedina
+Location:				Xalapa, Mexico
+
+Name: 					Noé Gomez
+Site:					http://fb.com/lgrtp
+Twitter:				@lagartop
+Location:				Saltillo, Mexico
+
+Name: 					Mircea Turcan
+Site:					http://sincretic.com
+Twitter:				@sincretic
+Location:				Monterrey, Mexico
+
+/* SITE */
+
+Standards:
+
+HTML5
+CSS3
+
+Components:
+
+HTML5 Boilerplate		http://html5boilerplate.com/
+HTML5 Bones				http://html5bones.com/
+jQuery: 				http://jquery.com/
+Normalize:				http://necolas.github.io/normalize.css/
