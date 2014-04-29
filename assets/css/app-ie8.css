@@ -719,14 +719,11 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:fo
   -o-transform: translate(0, -100%);
   transform: translate(0, -100%); }
 
-.section-start {
-  background: url(../i/pegman01.png) center no-repeat;
-  background-size: cover; }
-  .section-start .title {
-    height: 232px;
-    width: 600px; }
-  .section-start p {
-    margin-bottom: 30px; }
+.section-start .title {
+  height: 232px;
+  width: 600px; }
+.section-start p {
+  margin-bottom: 30px; }
 
 video {
   background-size: contain;

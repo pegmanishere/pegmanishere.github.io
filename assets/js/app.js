@@ -449,18 +449,15 @@ PIH.Site = (function(){
 				var currentMap = '';
 
 				if (current === 1) {
-					currentMap = 'alameda.kml';
-					console.log('alameda map');
+					currentMap = 'alameda.kmz';
 				} else if (current === 2) {
 					currentMap = 'fundidora.kml';
-					console.log('fundidora map');
 				} else if (current === 3) {
 					currentMap = 'santalucia.kml';
-					console.log('santalucia map');
 				}
 
 				map.loadFromKML({
-					url: '/assets/kmz/' + currentMap,
+					url: 'http://pegmanishere.com/assets/kmz/' + currentMap,
 					suppressInfoWindows: false,
 					events: {
 						click: function(point){
