@@ -136,8 +136,15 @@ PIH.Site = (function(){
 					$('.md-modal, .md-overlay, .md-content').removeClass('md-show');
 				});
 
+				//Slider
+				$('.slider').glide({
+					autoplay: false,
+					arrowRightText: 'Siguiente',
+					arrowLeftText: 'Anterior'
+				});
+
 				//GOOGLE ANALYTICS EVENTS
-				$('.btn').on('click', function () {
+				$('button, a').on('click', function () {
 					var title = $(this).text();
 
 					ga('send', {
