@@ -140,7 +140,8 @@ PIH.Site = (function(){
 				$('.slider').glide({
 					autoplay: false,
 					arrowRightText: 'Siguiente',
-					arrowLeftText: 'Anterior'
+					arrowLeftText: 'Anterior',
+					navigation: false
 				});
 
 				//GOOGLE ANALYTICS EVENTS
